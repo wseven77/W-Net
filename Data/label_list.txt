@@ -1,0 +1,4 @@
+0 background
+1 rice
+2 corn
+3 forest 
