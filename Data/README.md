@@ -1,1 +1,1 @@
-
+The original image size ranged from ∼ 800 × 800 pixels to ∼ 4000 × 13000 pixels. After the data enhancement process, a predefined training and validation set was divided into 8665 images containing three classes using the dataset.
