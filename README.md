@@ -12,3 +12,7 @@ The object categories include:<br>
 1 rice<br>
 2 corn<br>
 3 forest<br>
+
+## Annotation format
+
+Use pixel-level annotations. Each pixel represents a specific category.
